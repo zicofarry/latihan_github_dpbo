@@ -1,0 +1,5 @@
+urutan nge git
+1. clone
+2. lakuin perubahan
+3. commit
+4. push
